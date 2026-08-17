@@ -2,7 +2,7 @@
 Play a best of 3 game of rock paper scissors with the computer
 
 Import:
--random
+- random
 
 Input: 
 - player choices
